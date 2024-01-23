@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+}
+hr {
+    width: auto;
+    height: 5px;
+    margin: 50px;
+    border: solid 5px black;
+    background-color: blue;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    height: 100vh;
+    align-items: center;
+}
+#b1{
+    border:solid 5px red ;
+    background-color: white;
+}
+#b2{
+    border:solid 5px red ;
+    background-color: white;
+
+}
+#b3{
+    border:solid 5px red ;
+    background-color: white;
+
+}
+#text3{
+    text-align: center;
+}
+#text2{
+    text-align: center;
+}
+#text1{
+    text-align: center;
+}
+body{background-color: lightblue;
+}
